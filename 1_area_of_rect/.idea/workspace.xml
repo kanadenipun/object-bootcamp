@@ -31,6 +31,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -102,26 +103,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="128" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1575298748427" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1575299447475">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1575300203634">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575299447475" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1575299447474">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575300203634" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1575300203633">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575299447474" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1575299447474">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575300203633" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1575300203633">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575299447474" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1575299447475">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575300203633" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1575300203634">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575299447475" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575300203634" />
     <state x="258" y="125" key="Maven.ArtifactSearchDialog" timestamp="1575298842528">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="258" y="125" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1575298842528" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1575300089599">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1575300089599" />
     <state x="515" y="248" key="chooseDestDirectoryDialog" timestamp="1575298802922">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -130,5 +135,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="482" y="198" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1575299385488" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1575300195813">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1575300195813" />
   </component>
 </project>
